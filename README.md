@@ -5,3 +5,5 @@ Crafted with creativity and skill, this dynamic website serves as my digital cur
 From sleek design to seamless navigation, it highlights my expertise and projects.
 
 Language: English
+
+Link: https://nimble-dieffenbachia-6b0376.netlify.app
