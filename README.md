@@ -4,4 +4,4 @@ From sleek design to seamless navigation, it highlights my expertise and project
 
 Language: English
 
-Link: https://nimble-dieffenbachia-6b0376.netlify.app
+Link: https://my-resume-ad37.netlify.app
